@@ -19,6 +19,14 @@ El Juego de la oca (en inglés “Game of the Goose”), es un juego de mesa don
 
 ![alt](img/DiagramaDeContexto.png)
 
+## Vista Previa
+
+![alt](img/terminal.PNG)
+
+## Advertencia
+
+* Si usted desea cargar mas jugadores, primero deberá eliminar el archivo.dat existente.
+
 ## Compilador
 
 * [MinGW](https://www.mingw-w64.org/)

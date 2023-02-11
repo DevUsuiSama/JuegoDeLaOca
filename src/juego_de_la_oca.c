@@ -702,6 +702,7 @@ int main()
 
     aux_salida = NULL;
 
+    borrar_nodo_jugador(&entrada, &salida, &nuevo_jugador);
     borrar_la_lista(&aux_lista[0], contador_de_alumnos);
     borrar_nodo_juego(&lista, &nueva_lista);
     borrar_arbol(raiz);
